@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+pickle
+OpenCV
+Sci-kit
+matplotlib
+seaborn
